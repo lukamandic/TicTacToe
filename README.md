@@ -130,6 +130,8 @@ const game = new Server(3900)   // this is how we initialize the server and we a
 
 ## Usage
 
+When adding a new game you send an empty board because the AI will make a move first.
+
 ### When a new game is added (Subscription)
 
 ```graphql
