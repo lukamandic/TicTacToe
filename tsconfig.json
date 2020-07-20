@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "esnext.asynciterable"
+        ],
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "outDir": "dist"
+    }
+}
